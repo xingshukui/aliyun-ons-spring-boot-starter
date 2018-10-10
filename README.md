@@ -1,0 +1,1 @@
+# mail-spring-boot-starter
